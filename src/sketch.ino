@@ -1,3 +1,6 @@
+// This code is pretty horrible, but it's a one-off experiment so what did you expect?
+// Maybe you should start wit one of the Neopixel examples and work from there.
+
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 7

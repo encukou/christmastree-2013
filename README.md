@@ -17,8 +17,8 @@ Provided under the [GPLv3] license.
 
 # Physical installation
 
-Tie the tinsel to the LED strip with pieces of thread about 10cm apart,
-so that the LEDs are hidden.
+Place the LED strip between two strands of tinsel, so that the LEDs are hidden,
+and tie with pieces of thread about 10cm apart.
 The shiny tinsel will reflect and disperse the light.
 Carefully hang the strip on the tree.
 

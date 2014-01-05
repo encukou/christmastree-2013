@@ -42,6 +42,11 @@ Connect ground of USB cable to the ground pin of the Arduino.
 Connect Arduino pin 7 to the Data wire of the LED strip.
 Connect the Arduino to the computer via a good USB cable.
 
+Powering the LED strip and Arduino separately ensures that if the LEDs
+overload their power supply, he control logic won't be affected.
+The LEDs are quite power-hungry so overloads are not rare.
+If one of your chargers can provide more current, use that one for the LEDs.
+
 A photo of my setup (though there some extra elements in it from
 earlier/parallel projects):
 
@@ -54,11 +59,6 @@ Install the [NeoPixel library] and load the sketch to the Arduino tool
 Build and load the program and watch it blink!
 Once loaded, you can disconnect the Arduino from the computer and power it from
 another USB charger.
-
-Powering the LED strip and Arduino separately ensures that if the LEDs
-overload their power supply, he control logic won't be affected.
-The LEDs are quite power-hungry so overloads are not rare.
-If one of your chargers can provide more current, use that one for the LEDs.
 
 Have fun!
 
